@@ -13,6 +13,6 @@ public class tempcal {
             scanner.close();
 
 
-    }
+    }   
     
 }
